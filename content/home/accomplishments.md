@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Sun Yat-sen University"
-  organization_url = "https://www.coursera.org"
+  organization_url = "www.sysu.edu.cn"
   title = "Outstanding graduate student"
   url = ""
   date_start = "2018-10-01"
