@@ -15,13 +15,13 @@ role: A Master Student
 # Organizations/Affiliations
 organizations:
 - name: Sun Yat-sen University
-  url: "www.sysu.edu.cn"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include marine ecology, global change biology and biodiversity.
 
 interests:
-- Marine/Aquatic Biology
+- Marine/Aquatic Ecology
 - Global Change Biology
 - Biodiversity conservation
 - Ecosystem function
