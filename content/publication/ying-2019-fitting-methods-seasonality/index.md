@@ -1,0 +1,13 @@
+---
+title: "Fitting Methods and Seasonality Effects on the Assessment of Pelagic Fish Communities in Daya Bay, China"
+date: 2019-08-01
+publishDate: 2019-08-20T05:54:34.884350Z
+authors: ["Rui Ying", "Fangmin Yin", "Li Jiang", "Zufu Li", "Jianrong Huang", "Yingyong Wang", "Jianguo Lu", "Jianxiang Feng"]
+publication_types: ["2"]
+abstract: "The general relationship indicating that biomass decreases with individual body size is referred to as size spectra. This is consistent with the power law that characterizes size frequency distributions. While many previous studies have used the estimated exponent in size spectra as a metric to assess external perturbations, limited empirical studies have focused on the fitting methods. Here, we compared the effects caused by fitting methods and distribution models based on one-year pelagic fish data from Daya Bay, China. Our empirical results showed that maximum likelihood estimation (MLE) is more suitable than traditional normalized biomass spectra (NBS), and that a power law is not always the best model when using MLE. Moreover, we found significant size structure variation in different seasons. Principal component analysis (PCA) and linear mixed effects model (LMM) results showed that temperature was the major factor in seasonal environmental variation, and fish migration might be the essential response strategy causing size structure changes. The estimated exponents and nonlinear structure indicated that the Daya Bay is under intensive human impact. Our results suggest that MLE methods are recommended in future size-based studies, and that environmental variation and migration patterns are crucial in understanding seasonal community structure changes."
+featured: false
+publication: "*Ecological Indicators*"
+tags: ["Size spectra", "Daya Bay", "Maximum likelihood estimation", "Migration", "Nonlinearity", "Seasonality"]
+doi: "10.1016/j.ecolind.2019.04.042"
+---
+
