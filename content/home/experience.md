@@ -32,18 +32,4 @@ date_format = "Jan 2006"
   * Data analyses
   * Wrote papers
   """
-
-[[experience]]
-  title = "Seasonal field sampling at mangroves of Fujian Province"
-  company = ""
-  company_url = ""
-  location = "Quanzhou City and Zhangzhou City, Fujian Province"
-  date_start = "2018-03"
-  date_end = "2018-12"
-  description = """
-  
-  Responsibilities include:
-  Support for sampling
-  """
-
 +++
