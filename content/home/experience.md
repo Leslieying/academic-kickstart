@@ -31,5 +31,5 @@ date_format = "Jan 2006"
   * Field sampling
   * Data analyses
   * Wrote papers
-  """
+"""
 +++
