@@ -43,7 +43,8 @@ date_format = "Jan 2006"
   description = """
   
   Responsibilities include:
-  Support for sampling"""
+  Support for sampling
+  """
 
 [[experience]]
   title = "Fishery investigation at Liusha Bay"
@@ -55,7 +56,8 @@ date_format = "Jan 2006"
   description = """
   
   Responsibilities include:
-  Support for sampling"""
+  Support for sampling
+  """
 
 
 [[experience]]
