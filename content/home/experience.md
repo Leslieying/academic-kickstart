@@ -22,24 +22,67 @@ date_format = "Jan 2006"
   company = ""
   company_url = ""
   location = "Huizhou City, Guangdong Province"
-  date_start = "2017-01-01"
-  date_end = ""
+  date_start = "2017-09"
+  date_end = "2019-08"
   description = """
-  Responsibilities include:
 
-  * Preparation
+  Responsibilities include:
+  * Preparation Works
   * Field sampling
   * Data analyses
   * Wrote papers
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Seasonal field sampling at mangroves of Fujian Province"
+  company = ""
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Quanzhou City and Zhangzhou City, Fujian Province"
+  date_start = "2018-03"
+  date_end = "2018-12"
+  description = """
+  
+  Responsibilities include:
+  Support for sampling"""
+
+[[experience]]
+  title = "Fishery investigation at Liusha Bay"
+  company = ""
+  company_url = ""
+  location = "Zhanjiang City, Guangdong Province"
+  date_start = "2018-11"
+  date_end = "2018-11"
+  description = """
+  
+  Responsibilities include:
+  Support for sampling"""
+
+
+[[experience]]
+  title = "Lab experiment: purificaiton of Ulva lactuca and Sesuvium portulacastrum"
+  company = ""
+  company_url = ""
+  location = "Guangzhou"
+  date_start = "2017-09"
+  date_end = "2017-11"
+  description = """
+  
+  Responsibilities include:
+  * Data analyses and paper writing
+  """
+
+[[experience]]
+  title = "Lab experiment: Effects of ammonia-N and sulfide stress on Pacific white shrimp"
+  company = ""
+  company_url = ""
+  location = "Guangzhou"
+  date_start = "2018-03"
+  date_end = "2018-12"
+  description = """
+  
+  Responsibilities include:
+  * Support for experiment management and sampling
+  """
+
 
 +++
