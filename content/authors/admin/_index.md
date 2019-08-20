@@ -68,6 +68,6 @@ user_groups:
 - Visitors
 ---
 
-Rui Ying currently is a M.S. student in SYSU.
+Rui Ying is a M.S. student of SYSU (until June 2020). His current research is the marine ecology of Daya Bay and Kaozhouyang Bay community. Specifically, he studied the nekton community structure and their trophic interaction patterns. He has strong interests in the global change impacts on the aquatic/marine ecosystem and further management, this is also the directions he wants to take further study. 
 
 
