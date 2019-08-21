@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = ""
   company_url = ""
   location = "Huizhou City, Guangdong Province"
-  date_start = "2017-09"
-  date_end = "2019-08"
+  date_start = "2017-09-01"
+  date_end = "2019-08-01"
   description = """
 
   Responsibilities include:
@@ -38,8 +38,8 @@ date_format = "Jan 2006"
   company = ""
   company_url = ""
   location = "Quanzhou City and Zhangzhou City, Fujian Province"
-  date_start = "2018-03"
-  date_end = "2018-12"
+  date_start = "2018-03-01"
+  date_end = "2018-12-01"
   description = """
   
   Responsibilities include:
