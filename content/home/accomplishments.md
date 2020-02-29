@@ -26,4 +26,21 @@ date_format = "Jan 2006"
   date_start = "2018-10-01"
   date_end = ""
   description = ""
+
+[[item]]
+  organization = "Sun Yat-sen University"
+  organization_url = "www.sysu.edu.cn"
+  title = "National Scholarship"
+  url = ""
+  date_start = "2019-10-01"
+  date_end = ""
+  description = ""
+
+  organization = "Sun Yat-sen University"
+  organization_url = "www.sysu.edu.cn"
+  title = "Academician Lin Hao-ran Scholarship"
+  url = ""
+  date_start = "2019-11-01"
+  date_end = ""
+  description = ""
 +++
