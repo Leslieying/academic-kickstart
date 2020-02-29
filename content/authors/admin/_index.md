@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Rui Ying
+name: Rui YING
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: A Master Student
+role: Master Student
 
 # Organizations/Affiliations
 organizations:
@@ -22,9 +22,9 @@ bio: My research interests include marine ecology, global change biology and bio
 
 interests:
 - Marine/Aquatic Ecology
-- Global Change Biology
-- Biodiversity conservation
-- Ecosystem function
+- Global Changes
+- Biodiversity
+- Paleobiology
 
 education:
   courses:
@@ -59,7 +59,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "18829351713@163.com"
+email: "Ying.Rui@outlook.com"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -68,6 +68,6 @@ user_groups:
 - Visitors
 ---
 
-Rui Ying is a M.S. student of SYSU (until June 2020). His current research is the marine ecology of Daya Bay and Kaozhouyang Bay community. Specifically, he studied the nekton community structure and their trophic interaction patterns. He has strong interests in the global change impacts on the aquatic/marine ecosystem and further management, this is also the directions he wants to take further study. 
+Rui is a Master student at SYSU, China (until June 2020). He have studied the nekton community structure and their trophic interaction patterns in Daya Bay and Kaozhouyang Bay. He has strong interests in the global change impacts on the aquatic/marine ecosystem and further management, this is also the directions he wants to take further study. Rui is finding PhD opportunities, so please do not hesitate to contact him.
 
 
