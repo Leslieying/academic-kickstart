@@ -36,6 +36,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+[[item]]
   organization = "Sun Yat-sen University"
   organization_url = "www.sysu.edu.cn"
   title = "Academician Lin Hao-ran Scholarship"
