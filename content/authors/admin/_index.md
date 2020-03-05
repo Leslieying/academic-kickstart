@@ -28,10 +28,10 @@ interests:
 
 education:
   courses:
-  - course: M.S. in Hydrobiology
+  - course: MSc in Hydrobiology
     institution: Sun Yat-sen University
     year: 2017
-  - course: B.Sc in Aquaculture
+  - course: BSc in Aquaculture
     institution: Northwest A&F University
     year: 2013
 
@@ -43,15 +43,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+ - icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/YingRui17
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=tTem3kQAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=1QNR-nEAAAAJ&hl=zh-CN
 - icon: github
   icon_pack: fab
   link: https://github.com/Leslieying
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-5811-2388
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
