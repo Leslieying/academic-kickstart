@@ -70,6 +70,6 @@ date_format = "Jan 2006"
   date_start = "2017-10-01"
   date_end = "2018-06-05"
   description = """
-  Chen Jingfang did the experiment, and I analysed data and wrote the article
+  NOTE: Chen Jingfang did the experiment, and I analysed data and wrote the article
   """
 +++
