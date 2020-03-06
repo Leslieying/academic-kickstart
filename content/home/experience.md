@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Research Experience"
 subtitle = ""
 
 # Date format for experience
@@ -24,26 +24,52 @@ date_format = "Jan 2006"
   location = "Huizhou City, Guangdong Province"
   date_start = "2017-09-01"
   date_end = "2019-08-01"
-  description = """
-
-  Responsibilities include:
-  * Preparation Works
-  * Field sampling
-  * Data analyses
-  * Wrote papers
-  """
+  description = """"""
 
 [[experience]]
-  title = "Seasonal field sampling at mangroves of Fujian Province"
+  title = "Fishery investigation support of Liusha Bay"
+  company = ""
+  company_url = ""
+  location = "Zhanjiang City, Guangdong Province"
+  date_start = "2017-09-01"
+  date_end = "2019-08-01"
+  description = """"""
+
+[[experience]]
+  title = "Seasonal soil sampling at mangroves of Fujian Province"
   company = ""
   company_url = ""
   location = "Quanzhou City and Zhangzhou City, Fujian Province"
   date_start = "2018-03-01"
   date_end = "2018-12-01"
-  description = """
-  
-  Responsibilities include:
-  * Support for sampling
-  """
+  description = """"""
 
+[[experience]]
+  title = "Size spectra analysis of pelagic fish community of Daya Bay"
+  company = ""
+  company_url = ""
+  location = "Lab, SYSU"
+  date_start = "2018-07-01"
+  date_end = "2019-03-01"
+  description = """"""
+
+[[experience]]
+  title = "Stable isotopes analysis of Daya Bay functional groups"
+  company = ""
+  company_url = ""
+  location = "Lab, SYSU"
+  date_start = "2019-03-01"
+  date_end = "2020-03-01"
+  description = """"""
+
+[[experience]]
+  title = "Indoor experiment of two aquatic plants' purification effects"
+  company = ""
+  company_url = ""
+  location = "Lab, SYSU"
+  date_start = "2017-10-01"
+  date_end = "2018-06-05"
+  description = """
+  Chen Jingfang did the experiment, and I analysed data and wrote the article
+  """
 +++
