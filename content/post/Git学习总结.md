@@ -1,7 +1,6 @@
 ---
 title: Git学习总结
 date: 2018-11-25 20:54:42
-tags: Git
 summary: ""
 draft: true #需要研究怎么搞图床
 ---

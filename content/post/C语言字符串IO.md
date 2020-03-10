@@ -1,7 +1,6 @@
 ---
 title: C语言字符串IO
 date: 2018-12-03 11:17:41
-tags: C语言
 summary: ""
 toc: true
 ---
