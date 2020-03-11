@@ -2,7 +2,7 @@
 title: Git学习总结
 date: 2018-11-25 20:54:42
 summary: ""
-draft: false #需要研究怎么搞图床
+draft: false 
 ---
 ## Git简介
 
@@ -76,7 +76,7 @@ Git由Linus开发以实现版本控制，（几乎）是现在最流行的版本
 `--O--O--O---O`
 而分支，其实就是指向这些神经元的指针，而HEAD就是指向当前状态(分支)的指针（如下）。  
 
-{{< figure library="true" src="git_branch.jpg" title="" lightbox="true" >}}
+{{< figure library="true" src="git_branch.jpg" title="git branch" lightbox="true" >}}
 
 所以，当你创建一个新的分支的时候，其实只是换了一个指针，其他的文件都没有变化（有点像C语言是吧）。这使得Git的速度非常快，也是Git超出其他版本控制软件的重要原因或理念。另外一提，Git也是不依赖于网络的，它基于本地资源，可以大大减少对网络的依赖并且提升自身的速度。
 

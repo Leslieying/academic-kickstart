@@ -54,16 +54,16 @@ LaTeX是TeX家族中一种编译引擎。除了LaTeX，还有XeLaTeX、pdfTeX、
 不过这些还是要自己切身体会比较好，以下呢，就是一些我用过的编辑器与我的截图，大家仅作参考：
 
 - TeXStudio (跨平台的IDE，推荐)
-{{< figure library="true" src="texstudio_snap.jpg" title="" lightbox="true" >}}
+{{< figure library="true" src="texstudio_snap.jpg" title="textstudio" lightbox="true" >}}
 
 - Visual Studio Code (微软推出的轻量级编辑器，可以下载LaTeX Workbench扩展，推荐)
-{{< figure library="true" src="vscode_snap.png" title="" lightbox="true" >}}
+{{< figure library="true" src="vscode_snap.png" title="vscode" lightbox="true" >}}
 
 - [Overleaf](/https://www.overleaf.com) (主打学术编辑的online editor，无需安装配置，简单易用，界面好看，非常推荐)
-{{< figure library="true" src="overleaf_snap.png" title="" lightbox="true" >}}
+{{< figure library="true" src="overleaf_snap.png" title="overleaf" lightbox="true" >}}
 
 - Emacs (Unix环境下比较流行的纯文本编辑器，也是我最喜爱的editor，但是门槛较高，不太推荐)。
-{{< figure library="true" src="emacs_snap.png" title="" lightbox="true" >}}
+{{< figure library="true" src="emacs_snap.png" title=emacs" lightbox="true" >}}
 
 ### 基本的命令介绍
 
@@ -177,7 +177,7 @@ Word里有Endnote那样的软件配合插入文献。latex当然也有，那就�
 ```
 
 如下图所示，我在google scholar export我的文章为bib格式并放在同目录下，然后在.tex中的#74行\cite{xxx}引用了它，右边就自动编译出了reference。#85-86行是模板中已经预设好的命令，只需要在\bibliography{}中填上test表示test.bib为文献库既可。
-{{< figure library="true" src="bibtex_snapshot.png" title="" lightbox="true" >}}
+{{< figure library="true" src="bibtex_snap.png" title="" lightbox="true" >}}
 
 事实上文献库不可能只有一个文献，所有可以用endnote这样的文献管理软件导出bib文件(应该没有不能导出的软件，否则它就是失败的)。要注意的是，这样的bib文件在投稿时**一定要一起上传**，否则期刊是不知道你引用了什么文献的。
 
