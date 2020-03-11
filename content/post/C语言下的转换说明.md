@@ -21,7 +21,7 @@ warning: format ‘%d’ expects argument of type ‘int *’, but argument 2 ha
 input > if char > %convertion(if %c or getchar: pass) > variable
 ```
 
-在获取用户输入的时候，就要尤其注意，要添加一段` while (getchar() != '\n') continue; `来跳开换行符。
+在获取用户输入的时候，就要尤其注意，要添加一段`while (getchar() != '\n') continue;`来跳开换行符。
 
 * printf()函数也可以通过转换说明修饰符（例如%d, %c ）来对输出进行转换。例如下面的代码：
 
