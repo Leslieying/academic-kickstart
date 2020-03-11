@@ -2,7 +2,7 @@
 title: Git学习总结
 date: 2018-11-25 20:54:42
 summary: ""
-draft: true #需要研究怎么搞图床
+draft: false #需要研究怎么搞图床
 ---
 ## Git简介
 
