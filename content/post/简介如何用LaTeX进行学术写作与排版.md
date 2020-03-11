@@ -94,7 +94,7 @@ hello world      %正文区
 \end{document}
 ```
 
-添加数学公式
+#### 添加数学公式
 
 ```latex
 $....$   %所有行内公式都可以在两个$之间插入
@@ -108,7 +108,7 @@ d = \frac{a}{b} + \sqrt{c}  %使用\frac{}{}表示分式，使用\sqrt{}表示�
 
 更多的数学公式符号可以参考[lshort一份很短的latex入门文档](https://liam.page/2014/09/08/latex-introduction/)
 
-插入表格
+#### 插入表格
 
 `tabular` 环境提供了最简单的表格功能。它用 `\hline` 命令表示横线，在列格式中用 `|` 表示竖线；用 `&` 来分列，用 `\\` 来换行；每列可以采用居左、居中、居右等横向对齐方式，分别用 `l`、`c`、`r` 来表示。
 
@@ -125,9 +125,10 @@ b& 10&  10\\
 ```
 
 这是它的效果
+
 {{< figure library="true" src="tabular_snap.png" title="" lightbox="true" >}}
 
-插入图片
+#### 插入图片
 
 ```latex
 \documentclass{article}
@@ -140,7 +141,7 @@ b& 10&  10\\
 %\includegraphics[width=5cm]{Fig1}
 ```
 
-中文排版（其实没什么必要，国内期刊应该基本不接收这种格式，他们也看不懂）
+#### 中文排版（其实没什么必要，国内期刊应该基本不接收这种格式，他们也看不懂）
 
 ```latex
 \documentclass[UTF8]{ctexart}
@@ -152,10 +153,6 @@ b& 10&  10\\
 /待定
 
 #### 多位作者
-
-/待定
-
-#### 插入图片
 
 /待定
 
@@ -176,12 +173,12 @@ Word里有Endnote那样的软件配合插入文献。latex当然也有，那就�
 \bibliography{sample} %你的文献库
 ```
 
-如下图所示，我在google scholar export我的文章为bib格式并放在同目录下，然后在.tex中的#74行\cite{xxx}引用了它，右边就自动编译出了reference。#85-86行是模板中已经预设好的命令，只需要在\bibliography{}中填上test表示test.bib为文献库既可。
+如下图所示，我在Google scholar export我的文章为bib格式并放在同目录下，然后在.tex中的#74行\cite{xxx}引用了它，右边就自动编译出了reference。#85-86行是模板中已经预设好的命令，只需要在\bibliography{}中填上test表示test.bib为文献库既可。
 {{< figure library="true" src="bibtex_snap.png" title="" lightbox="true" >}}
 
 事实上文献库不可能只有一个文献，所有可以用endnote这样的文献管理软件导出bib文件(应该没有不能导出的软件，否则它就是失败的)。要注意的是，这样的bib文件在投稿时**一定要一起上传**，否则期刊是不知道你引用了什么文献的。
 
-不过说到文献管理软件的话，这里更推荐Zotero搭配latex，为什么呢，因为它也是**开源免费**的。
+不过说到文献管理软件的话，这里更推荐Zotero搭配LaTeX，为什么呢，因为它也是**开源免费**的。
 
 ### 投稿格式/模板使用
 
@@ -189,6 +186,4 @@ Word里有Endnote那样的软件配合插入文献。latex当然也有，那就�
 
 但是也有一些不用模板的，例如Ecology Letters（如下）。不过这种反而是种优势？至少你不用改格式了，peer-review时提供pdf，终稿时提供source file、图片还有bst文件就可以了。
 
-``` text
 Ecology Letters does not have a standard LaTex style file. Manuscripts submitted using LaTeX should be accompanied by a PDF version of the paper. Upon final acceptance for publication, authors will be requested to send their LaTeX source files accompanied by all figures in EPS or TIFF format and also any non-standard LaTeX style files used in the manuscript preparation.
-```
