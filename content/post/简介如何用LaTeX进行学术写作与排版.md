@@ -62,9 +62,6 @@ LaTeX是TeX家族中一种编译引擎。除了LaTeX，还有XeLaTeX、pdfTeX、
 - [Overleaf](/https://www.overleaf.com) (主打学术编辑的online editor，无需安装配置，简单易用，界面好看，非常推荐)
 {{< figure library="true" src="overleaf_snap.png" title="overleaf" lightbox="true" >}}
 
-- Emacs (Unix环境下比较流行的纯文本编辑器，也是我最喜爱的editor，但是门槛较高，不太推荐)。
-{{< figure library="true" src="emacs_snap.png" title=emacs" lightbox="true" >}}
-
 ### 基本的命令介绍
 
 安装好LaTeX看起来像在写代码的原因就是因为它丰富的命令与宏包。这里只做简单介绍，更多还是要靠自己多用多摸索。
