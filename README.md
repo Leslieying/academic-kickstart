@@ -1,7 +1,7 @@
 # [Academic Kickstart](https://sourcethemes.com/academic/)
 
 ## About
-This is used to build _Rui YING's [personal website](https://www.ruiying.online)_, I'm happy if you are glad to visit it and give me any comment about my research.
+This is used to build _Rui YING's [personal website](https://www.ruiying.online)_, I'm happy if you wanna visit it and give me any advice.
 
 ## License
 

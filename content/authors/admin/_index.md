@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Master Student
+role: PhD candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Sun Yat-sen University
+- name: Professor Daniela D. Schmidt's Group
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,6 +28,9 @@ interests:
 
 education:
   courses:
+  - course: PhD in Geology
+    institution: University of Bristol
+    year: 2020
   - course: MSc in Hydrobiology
     institution: Sun Yat-sen University
     year: 2017
@@ -71,6 +74,5 @@ user_groups:
 - Visitors
 ---
 
-Rui is a Master student at SYSU, China (until June 2020). He have studied the nekton community structure and their trophic interaction patterns in Daya Bay and Kaozhouyang Bay. He has strong interests in the global change impacts on the aquatic/marine ecosystem and further management, this is also the directions he wants to take further study. Rui is finding PhD opportunities, so please do not hesitate to contact him.
-
+I am now a CSC-funded PhD candidate who focuses on marine modelling studies at University of Bristol. Before this, I had some experience in marine ecology, including studying the nekton community structure and their trophic interaction patterns in Daya Bay and Kaozhouyang Bay. In ordinary life, I'm big fan of guitar, tennis and snooker.
 

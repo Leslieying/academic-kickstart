@@ -27,6 +27,17 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+
+[[item]]
+  organization = "Sun Yat-sen University"
+  organization_url = "www.sysu.edu.cn"
+  title = "Outstanding Student of Guangdong Province"
+  url = ""
+  date_start = "2020-06-01"
+  date_end = ""
+  description = ""
+
+
 [[item]]
   organization = "Sun Yat-sen University"
   organization_url = "www.sysu.edu.cn"
