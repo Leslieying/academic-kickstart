@@ -14,7 +14,7 @@ role: PhD candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Professor Daniela D. Schmidt's Group
+- name: Professor Daniela Schmidt's Group
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
