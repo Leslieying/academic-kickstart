@@ -1,7 +1,7 @@
 # [Academic Kickstart](https://sourcethemes.com/academic/)
 
 ## About
-This is used to build _Rui YING's [personal website](https://www.ruiying.online)_, I'm happy if you wanna visit it and give me any advice.
+This was my personal webiste project and now has been moved to [start-academic](https://github.com/Leslieying/starter-academic) because of the old version of academic.
 
 ## License
 
